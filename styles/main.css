@@ -18,7 +18,7 @@ a {
 }
 
 .blackcard{
-    background-image: url("/images/blackmono.png");
+    background-image: url("./images/blackmono.png");
 }
 
 .text1{
@@ -26,7 +26,7 @@ a {
 }
 
 .sportsback{
-    background-image: url("/images/sportsback.jpeg");
+    background-image: url("../images/sportsback.jpeg");
     background-size: cover;
 }
 
