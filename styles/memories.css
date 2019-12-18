@@ -1,0 +1,137 @@
+body {
+    background-color: chartreuse;
+}
+
+nav{
+    background-color: firebrick;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.links:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.carsize{
+    margin-top: 10px;
+    width: 400px;
+    height: 500px;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin-left: 20px;
+}
+
+.kennysname{
+    margin-left: 25px;
+}
+
+.kenny2020{
+    position: relative;
+    left: 500px;
+    bottom: 500px;
+
+}
+
+.kenny2024{
+    position: relative;
+    left: 500px;
+    bottom: 500px;
+    font-family: 'Alfa Slab One', cursive;
+    
+}
+
+#blue{
+    color: blue;
+}
+
+#red{
+    color: red
+}
+
+.jstar{
+    position: relative;
+    left: 1000px;
+    bottom: 700px;
+}
+
+.jstar1{
+    position: relative;
+    left: 1000px;
+    bottom: 700px;
+    color: blue;
+}
+
+.littlethumbs{
+    position: relative;
+    left: 470px;
+    bottom: 700px;
+}
+
+.littlethumbs1{
+    position: relative;
+    left: 470px;
+    bottom: 700px;
+}
+
+.carsonjay{
+    position: relative;
+    left: 70px;
+    bottom: 650px;
+}
+
+.linhpostjack{
+    position: relative;
+    left: 700px;
+    bottom: 900px;
+}
+
+.officehal{
+    position: relative;
+    bottom: 750px;
+    left: 30px;
+}
+
+.fiveyearanni{
+    position: relative;
+    left: 900px;
+    bottom: 900px;
+}
+
+.allen{
+    position: relative;
+    left: 200px;
+    bottom: 900px;
+}
+
+.kenniyzz{
+    position: relative;
+    left: 900px;
+    bottom: 800px;
+}
+
+.groupsanta{
+    position: relative;
+    left: 50px;
+    bottom: 1000px;
+}
+
+.matttt{
+    position: relative;
+    bottom: 800px;
+    left: 750px;
+}
+
+.rashid{
+    position: relative;
+    bottom: 1400px;
+    left: 50px;
+}
